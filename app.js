@@ -45,6 +45,6 @@ app.post(/chat/, function(req, res){
 });
 
 // start web server port 8080
-app.listen(8080 , function(){
+app.listen(8080, function(){
   console.log('public-chat start !')
 })

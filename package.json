@@ -4,7 +4,7 @@
   "description": "example public-chat, work with SSE",
   "main": "app.js",
   "scripts": {
-    "start": "nodemon app.js",
+    "server": "nodemon app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "diewland <diewland@gmail.com> (https://diewland.com)",
